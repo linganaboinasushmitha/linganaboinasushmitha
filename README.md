@@ -1,21 +1,21 @@
 # Hi there, I'm Sushmitha Linganaboinas! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, machine learning, and open-source contributions. I love exploring new technologies and applying them to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development and open-source contributions. I love exploring new technologies and applying them to solve real-world problems.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced React and exploring the depths of machine learning.
+- 🌱 I’m currently learning advanced React and exploring the depths of node. js.
 - 👯 I’m looking to collaborate on open-source projects and innovative startups.
-- 💬 Ask me about web development, Python, and machine learning.
+- 💬 Ask me about web development, React.
 - 📫 How to reach me: [Email](mailto:sushmithalinganaboina@gmail.com)
 - ⚡ Fun fact: I enjoy painting and hiking in my free time.
 
 ## 🛠 Technologies & Tools
 
-- *Languages*: JavaScript, Python, Java, C++
+- *Languages*: JavaScript, Python, Java, C
 - *Frameworks/Libraries*: React, Node.js
 - *Tools*: Git,VSCode
-- *Databases*: MySQL, PostgreSQL
+- *Databases*: MySQL, DBMS
 
 ## 📈 GitHub Stats
 

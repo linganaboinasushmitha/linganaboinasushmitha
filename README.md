@@ -59,8 +59,8 @@ I regularly build and improve real-world projects focusing on full-stack develop
 
 ## 📫 Connect With Me
 
-📧 Email: (Add your email here)  
-💼 LinkedIn: (Add LinkedIn link here)
+📧 Email: (sushmithalinganaboina@gmail.com)  
+💼 LinkedIn: (https://www.linkedin.com/in/sushmitha-l-7b5565280/)
 
 ---
 

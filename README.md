@@ -1,35 +1,67 @@
-# Hi there, I'm Sushmitha Linganaboinas! 👋
+# Hi, I'm Sushmitha Linganaboina 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development and open-source contributions. I love exploring new technologies and applying them to solve real-world problems.
+💻 Full Stack Developer | React | Node.js | MongoDB  
+🚀 Immediate Joiner | Open to Frontend / Full Stack Roles  
 
-## 🚀 About Me
+---
 
-- 🌱 I’m currently learning advanced React and exploring the depths of node. js.
-- 👯 I’m looking to collaborate on open-source projects and innovative startups.
-- 💬 Ask me about web development, React.
-- 📫 How to reach me: [Email](mailto:sushmithalinganaboina@gmail.com)
-- ⚡ Fun fact: I enjoy painting and hiking in my free time.
+## 👩‍💻 About Me
 
-## 🛠 Technologies & Tools
+I am a passionate Full Stack Developer with hands-on experience building and deploying real-world web applications using React.js, Node.js, and MongoDB.
 
-- *Languages*: JavaScript, Python, Java, C
-- *Frameworks/Libraries*: React, Node.js
-- *Tools*: Git,VSCode
-- *Databases*: MySQL, DBMS
+I enjoy creating responsive, user-friendly applications and integrating frontend with backend APIs. Recently, I developed and deployed a full-stack Restaurant Web Application with live hosting.
 
-## 📈 GitHub Stats
+I am actively seeking entry-level Frontend or Full Stack Developer opportunities where I can contribute and grow.
 
-![Sushmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=linganaboinasushmitha&show_icons=true&theme=radical)
+---
 
-## 🏆 Top Languages
+## 🛠 Technical Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linganaboinasushmitha&layout=compact&theme=radical)
+**Frontend:**  
+- React.js  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
 
-## 📫 Connect with Me
+**Backend:**  
+- Node.js  
+- Express.js  
 
-- [LinkedIn](https://www.linkedin.com/in/sushmitha-linganaboina-281984228)
-  
+**Database:**  
+- MongoDB  
+- MySQL  
 
-Feel free to check out my repositories and projects. Let's connect and create something amazing together!
+**Tools & Platforms:**  
+- Git & GitHub  
+- Render (Deployment)  
+- VS Code  
 
-Happy Coding! 😊
+---
+
+## 🚀 Featured Project
+
+### 🍽 Restaurant Food Ordering Web Application
+- Built using React.js, Node.js, Express.js, MongoDB  
+- Implemented RESTful APIs for data handling  
+- Integrated frontend with backend services  
+- Deployed live using Render  
+- Git-based workflow  
+
+🔗 Live Demo: https://resturent-food-items-3.onrender.com  
+
+---
+
+## 📊 GitHub Activity
+
+I regularly build and improve real-world projects focusing on full-stack development and deployment practices.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: (Add your email here)  
+💼 LinkedIn: (Add LinkedIn link here)
+
+---
+
+✨ "Building practical solutions and improving one project at a time."
